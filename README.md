@@ -1,3 +1,10 @@
+# FE-SafeJourney
+
+This is the front-end repo for the Safe Journey app. Built using React Native, JavaScript and Node.js.
+
+Safe Journey is a mobile app developed as part of a team during the Northcoders bootcamp. It allows you to share your location and journey plans with your friends, who can track you in real time.
+
+---------------------------------------
 ##SafeJourney
 API key for google map api's is stored in app.json - fix
 
